@@ -95,7 +95,7 @@
                             <button opaque="NO" tag="2" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="O0P-qk-Ddi">
                                 <rect key="frame" x="38" y="496" width="71" height="30"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <state key="normal" title="sause"/>
+                                <state key="normal" title="Sauce"/>
                                 <connections>
                                     <action selector="addFood:" destination="ALb-hG-pEV" eventType="touchUpInside" id="Fgr-Z1-RhN"/>
                                 </connections>
